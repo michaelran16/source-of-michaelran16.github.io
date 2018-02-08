@@ -18,5 +18,4 @@ Some basic Hexo commands to use:
   hexo s
   hexo d
 
-For more details, look at this post: 
-https://michaelran16.github.io/2001/01/01/intro-to-hexo/
+For more details, look at this post: https://michaelran16.github.io/2001/01/01/intro-to-hexo/
